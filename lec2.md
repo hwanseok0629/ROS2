@@ -3,7 +3,10 @@
 - 다른 작업과 하기에는 ubuntu desktop이 더 편리하다.
 - Virtual Box 이용하여 실행
 - Ubuntu 내의 네트워크 설정 및 추가 설정 필요 
-- 
 
-# ROS2 FOXY 설치 
-- 
+# Ubuntu 내의 환경 설정
+- 한글로 실행하는 경우 오류가 있음 ( 영어로 실행 )
+- 시스템에서 프로세서 수 2개 이상으로 설정
+- windows 와 virtualbox를 연결하기 위해 게스트 모드 cd삽입
+
+
