@@ -15,3 +15,11 @@
 
 - terminal 키고 바로 rosfoxy 입력
 - cd ~/gcamp_ros2_ws/src로 workspace 들어가기
+- alias eb='gedit ~/.bashrc'
+- alias sb='source ~/.bashrc'
+- alias cba='colcon build --symlink-install'
+- alias cbp='colcon build --symlink-install --packages-select'
+- alias killg='killall -9 gzserver && killall -9 gzclient && killall -9 rosmaster'
+- alias rosfoxy='source /opt/ros/foxy/setup.bash && source ~/gcamp_ros2_ws/install/local_setup.bash'
+- source /usr/share/colcon_cd/function/colcon_cd.sh
+- export _colcon_cd_root=~/gcamp_ros2_ws
