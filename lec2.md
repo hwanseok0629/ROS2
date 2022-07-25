@@ -14,3 +14,4 @@
 - source /opt/ros/foxy/setup.bash && source ~/gcamp_ros2_ws/install/local_setup.bash를 rosfoxy로 축약
 
 - terminal 키고 바로 rosfoxy 입력
+- cd ~/gcamp_ros2_ws/src로 workspace 들어가기
