@@ -12,3 +12,5 @@
 # alias
 - 축약어로 긴 리눅스의 명령어의 앞글자를 따서 사용
 - source /opt/ros/foxy/setup.bash && source ~/gcamp_ros2_ws/install/local_setup.bash를 rosfoxy로 축약
+
+- terminal 키고 바로 rosfoxy 입력
