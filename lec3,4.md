@@ -5,4 +5,6 @@
 # uuidgen 코드 번호
 - de60fa48-2b48-410f-b69c-38b24c7ad379
 
+# ros-foxy 터미널
 - ' install\setup.bat '  모든 과정을 빌드후 마지막에 업데이트 실행
+- 관리자 권한 실행 = alt + shift + '+'
