@@ -11,4 +11,4 @@
 
 # process has dead. 오류
 ![image](https://user-images.githubusercontent.com/88695655/180931551-b9a193b7-a810-47b3-b1b2-7934acd937e8.png)
-
+- gazebo 화면이 켜지지 않음
