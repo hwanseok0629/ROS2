@@ -10,4 +10,5 @@
 - 관리자 권한 실행 = alt + shift + '+'
 
 # process has dead. 오류
-![image](https://user-images.githubusercontent.com/88695655/180931417-6ce4f8c5-3247-41c9-8425-e24e12c1e977.png)
+![image](https://user-images.githubusercontent.com/88695655/180931551-b9a193b7-a810-47b3-b1b2-7934acd937e8.png)
+
