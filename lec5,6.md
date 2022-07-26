@@ -36,3 +36,7 @@
  
  # 환경 변수, 제어변수
  - https://github.com/rnanosaur/nanosaur_robot/blob/6aaf41d00c2f95d393d942d22e35c0a3c60fdf66/nanosaur_camera/param/camera.yml 
+ - param 폴더 : parameter 게시
+
+# ExecuteProcess , Node
+- 둘 다 필요한 경우 있으므로 source에서 무엇을 의미하는지 정도 알아
