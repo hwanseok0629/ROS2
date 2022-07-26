@@ -9,3 +9,4 @@
 - $ ros2 run --
 ![image](https://user-images.githubusercontent.com/88695655/180922309-abd54a7c-c43d-4285-9b4d-03f7d822342f.png)
 - gazebo  실행시 ros graph를 통한 노드의 데이터 구조 모습 확인
+- 노드간의 화살표가 존재해야 데이터 전송되고 있는 것 (debug 할 때 사용)
