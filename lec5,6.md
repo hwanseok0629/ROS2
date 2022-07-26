@@ -8,3 +8,4 @@
 # Node 실행
 - $ ros2 run --
 ![image](https://user-images.githubusercontent.com/88695655/180922309-abd54a7c-c43d-4285-9b4d-03f7d822342f.png)
+- gazebo  실행시 ros graph를 통한 노드의 데이터 구조 모습 확인
