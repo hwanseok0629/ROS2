@@ -34,3 +34,5 @@
  - executable : c++ Node의 경우, colcon build를 하면 실행 가능한 프로그램이 생성. python의 경우도 추가 작업이 필요하여, 우선 지금은 기존 커멘드의 마지막 인자.
  - parameters : 실행시킬 Node의 추가 매개변수가 있다면 여기 추가됨.
  
+ # 환경 변수, 제어변수
+ - https://github.com/rnanosaur/nanosaur_robot/blob/6aaf41d00c2f95d393d942d22e35c0a3c60fdf66/nanosaur_camera/param/camera.yml 
