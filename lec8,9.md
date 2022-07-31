@@ -30,3 +30,5 @@
 # 정리 
 - 로봇의 방향과 속도 조절 : command velocity publish를 통해 가능 
 - 로봇에 달린 lidar 센서로 전방의 물체와의 거리 파악 : subscribe를 통해 전방의 물체와의 거리를 알고 일정거리가 되면 멈추게 할 수 있음
+- 로봇 parking 시키기 참고자료 
+- https://github.com/Road-Balance/gcamp_ros2_basic/blob/main/py_topic_pkg/py_topic_pkg/parking.py
