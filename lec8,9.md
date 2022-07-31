@@ -23,6 +23,10 @@
 # LaserScan Message
 - 실질적으로 Lidar의 데이터를 담고 있는 부분은 ranges이며 ranges는 길이 720의 list로, 다음과 같이 0.25도의 분해능으로 scan된 물체와의 거리를 저장
 ![image](https://user-images.githubusercontent.com/88695655/182029230-f9bcbbd7-7774-4fee-8d62-37c6b4751d92.png)
-- 전방의 물체만 고려했을 때 : 	
-  \def sub_callback(self, msg):
-  \print(f'Distance from Front Object : {msg.ranges[360]}')
+- <전방의 물체만 고려했을 때> 	
+- def sub_callback(self, msg):
+- print(f'Distance from Front Object : {msg.ranges[360]}')   *전방 극좌표계 기준 360도가 전방
+
+# 정리 
+- 로봇의 방향과 속도 조절 : command velocity publish를 통해 가능 
+- 로봇에 달린 lidar 센서로 전방의 물체와의 거리 파악 : subscribe를 통해 전방의 물체와의 거리를 알고 일정거리가 되면 멈추게 할 수 있음
