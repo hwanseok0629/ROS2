@@ -14,4 +14,3 @@
 - 특정 message를 알고자 할 때 : $ ros2 interface show geometry_msgs/msg/Twist (구글링을 통해서 하지 않아도 됨)
 - 커맨드를 publish한 후 echo를 사용하여 잘 실행 되는지 확인 : $ ros2 topic echo /skidbot/cmd_vel
 - rpt_graph를 통해 노드의 데이터가 잘 전달되는지 확인 ( 확인 안될 때 새로고침해보기 )
-- 
