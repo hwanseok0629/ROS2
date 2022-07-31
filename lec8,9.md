@@ -22,7 +22,7 @@
 
 # LaserScan Message
 - 실질적으로 Lidar의 데이터를 담고 있는 부분은 ranges이며 ranges는 길이 720의 list로, 다음과 같이 0.25도의 분해능으로 scan된 물체와의 거리를 저장
-- ![image](https://user-images.githubusercontent.com/88695655/182029230-f9bcbbd7-7774-4fee-8d62-37c6b4751d92.png)
+![image](https://user-images.githubusercontent.com/88695655/182029230-f9bcbbd7-7774-4fee-8d62-37c6b4751d92.png)
 - 전방의 물체만 고려했을 때 : 	
- def sub_callback(self, msg):
- print(f'Distance from Front Object : {msg.ranges[360]}')
+  def sub_callback(self, msg):
+  print(f'Distance from Front Object : {msg.ranges[360]}')
